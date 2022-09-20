@@ -1,0 +1,23 @@
+﻿Build started 19/09/2022 10:48:34 p. m..
+     1>Project "F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Pokemon\Pokemon.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         F:\Archivos de programa (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\Pokemon.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib cmodel/CModel.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\Pokemon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\Pokemon.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\figuras.obj
+         Debug\Pinball.obj
+         Debug\texture.obj
+     1>CModel.lib(_3dsloader.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(_3dsloader.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(CModel.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(CModel.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(CObject.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(CObject.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(GFILoader.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(GFILoader.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(GLRender.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(GLRender.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(HandleStream.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(HandleStream.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(imageload.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(imageload.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(MATRIX4X4.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(MATRIX4X4.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(VECTOR3D.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(VECTOR3D.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+     1>CModel.lib(VECTOR4D.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'CModel.lib(VECTOR4D.obj)' or at 'F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\vc70.pdb'; linking object as if no debug info
+         Pokemon.vcxproj -> F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Debug\Pokemon.exe
+     1>Done Building Project "F:\Users\user\Desarrollo\VisualStudio2022\Proyectos\Pokemon\Pokemon\Pokemon.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.93
